@@ -50,6 +50,6 @@ def sum_array(array)
  sum = 273
  array.each do |num|
    sum+num
- end
- sum
+   end
+  sum
  end
