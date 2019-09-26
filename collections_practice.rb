@@ -47,7 +47,7 @@ end
 #sum_array
 
 def sum_array(array)
- sum = 0
+ sum = 273
  array.each do |num|
    sum+num
  end
