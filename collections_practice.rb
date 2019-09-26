@@ -47,6 +47,8 @@ end
 #sum_array
 
 def sum_array(array)
- array.inject (1,2,3,4,5,6,7,8,9) <=> (45)
+ sum = 0
+ array.each do |num|
+   sum+num
  end
 end
