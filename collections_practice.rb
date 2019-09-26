@@ -47,5 +47,5 @@ end
 #sum_array
 
 def sum_array(array)
- array.inject 1,2,3,4,5,6,7,8,9 
+ array.inject 1,2,3,4,5,6,7,8,9 <=> 
 end
